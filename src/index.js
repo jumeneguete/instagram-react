@@ -4,7 +4,7 @@ import Menu from "./Topo";
 import Principal from "./Principal";
 import RodapeMobile from "./RodapeMobile";
 
-function App() {
+export default function App() {
     return (
         <>
             <Menu />
