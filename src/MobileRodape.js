@@ -1,4 +1,4 @@
-export default function RodapeMobile (){
+export default function MobileRodape (){
     return (
         <div class="fundo-mobile">
             <ion-icon name="home"></ion-icon>

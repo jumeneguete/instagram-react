@@ -2,14 +2,14 @@ import ReactDOM from "react-dom";
 
 import Menu from "./Topo";
 import Principal from "./Principal";
-import RodapeMobile from "./RodapeMobile";
+import MobileRodape from "./MobileRodape";
 
 export default function App() {
     return (
         <>
             <Menu />
             <Principal />
-            <RodapeMobile />
+            <MobileRodape />
         </>
     );
 }
