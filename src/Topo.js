@@ -1,5 +1,5 @@
 
-export default Menu(){
+export default function Menu(){
     return (
         <div class="navbar">
         <div class="container">

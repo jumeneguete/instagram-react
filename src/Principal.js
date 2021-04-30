@@ -1,4 +1,4 @@
-export default Principal (){
+export default function Principal (){
     return (
         <div class="corpo">
         <div class="esquerda">
